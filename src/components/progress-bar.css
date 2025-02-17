@@ -1,0 +1,26 @@
+
+#background-bar{ 
+    width:85%;
+    position:absolute;
+    left: 55px;
+    height: 8px;
+    flex: 1;
+    background-color: white;
+    background: hsla(0, 0%, 100%, 0.16);
+    border-color: #fff0;
+    box-shadow: var(--box-shadow-none,none);
+    padding-left: 0;
+    padding-right: 0;
+    border-style: none;
+    margin-left: 0rem;
+    margin-right: 0rem;
+}
+
+#progress-indicator{
+    background-color: #538fff; 
+    position:absolute;
+    width:40px;
+    height: 8px;
+    left: 55px;
+
+}

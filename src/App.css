@@ -1,0 +1,15 @@
+.Speadsheet { 
+  margin: 0;
+  padding: 0; 
+}
+
+body{ 
+  overflow: hidden;
+}
+
+#mouse{ 
+  width: 20px;
+  height: 20px;
+  position:absolute;
+  z-index: 999;
+}
